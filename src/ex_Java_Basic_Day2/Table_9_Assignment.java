@@ -13,6 +13,5 @@ public class Table_9_Assignment {
         System.out.printf("9 x 8 = %d%n",num*8);
         System.out.printf("9 x 9 = %d%n",num*9);
         System.out.printf("9 x 10 = %d%n",num*10);
-
     }
 }
