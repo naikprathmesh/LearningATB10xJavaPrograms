@@ -1,6 +1,6 @@
 package ex_Java_Basic_Day2;
 
-public class Lab17_Variables {
+public class Table_9_Assignment {
     public static void main(String[] args) {
       int num = 9;
         System.out.printf("9 x 1 = %d%n",num*1);
