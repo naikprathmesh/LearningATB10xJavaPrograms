@@ -1,4 +1,4 @@
-package ex_Java_Basic_Day3;
+package Task_19_Jan_25;
 
 public class Task_Part1_TernaryOperator {
     public static void main(String[] args) {

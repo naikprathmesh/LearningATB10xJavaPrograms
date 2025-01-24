@@ -1,4 +1,4 @@
-package ex_Java_Basic_Day3;
+package Task_19_Jan_25;
 
 public class Task_Part2_Increment_Decrement {
     public static void main(String[] args) {
