@@ -2,7 +2,7 @@ package Task_30_Jan_25;
 
 import java.util.Scanner;
 
-public class Task3_Prime_No {
+public class Task7_Prime_No {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a num:");

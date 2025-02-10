@@ -2,7 +2,7 @@ package Task_30_Jan_25;
 
 import java.util.Scanner;
 
-public class Task2_Smallest_3 {
+public class Task3_Smallest_3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter no 1: ");
